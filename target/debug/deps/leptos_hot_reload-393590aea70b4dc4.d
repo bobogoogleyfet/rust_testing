@@ -1,0 +1,11 @@
+/home/tanner/rust_tests/target/debug/deps/leptos_hot_reload-393590aea70b4dc4.d: /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/lib.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/diff.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/node.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/parsing.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/patch.js
+
+/home/tanner/rust_tests/target/debug/deps/libleptos_hot_reload-393590aea70b4dc4.rlib: /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/lib.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/diff.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/node.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/parsing.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/patch.js
+
+/home/tanner/rust_tests/target/debug/deps/libleptos_hot_reload-393590aea70b4dc4.rmeta: /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/lib.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/diff.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/node.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/parsing.rs /home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/patch.js
+
+/home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/lib.rs:
+/home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/diff.rs:
+/home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/node.rs:
+/home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/parsing.rs:
+/home/tanner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.6.15/src/patch.js:
