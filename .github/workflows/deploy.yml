@@ -26,7 +26,7 @@ jobs:
           ./trunk --version
 
       - name: Build with Trunk
-        run: ./trunk build --release --public-url "/rust-gh-pages/" # Replace 'rust-gh-pages' with your actual repo name
+        run: ./trunk build --release --public-url "/rust_testing/" # Matches the repo name
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
