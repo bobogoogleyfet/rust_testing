@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rust Leptos App</title>
+    <link rel="stylesheet" href="/style.css">
+    
+<script type="module">
+import init, * as bindings from '/rust_testing/rust-gh-pages-a833c95f746561cd.js';
+const wasm = await init({ module_or_path: '/rust_testing/rust-gh-pages-a833c95f746561cd_bg.wasm' });
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script>
+<link rel="modulepreload" href="/rust_testing/rust-gh-pages-a833c95f746561cd.js" crossorigin="anonymous" integrity="sha384-Q/KQID015MkRRWQs0sIZHQAWEQGC1DfOroQJ1FTA/slCaOYpMu7+VVj1MkfCmGjq"><link rel="preload" href="/rust_testing/rust-gh-pages-a833c95f746561cd_bg.wasm" crossorigin="anonymous" integrity="sha384-dPkcytzkZBSPGqvWwBsQrSvvgewiemZOWR+cscvVisPwGlhKfv2eYnCKN09PKMuF" as="fetch" type="application/wasm"></head>
+
+<body>
+</body>
+
+</html>
